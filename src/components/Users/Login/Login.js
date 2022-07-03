@@ -3,7 +3,7 @@ import { useFormik } from "formik";
 import { Redirect, Link } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";
 import * as Yup from "yup";
-import poster from "../../../img/poster.png";
+import poster from "../../../img/poster2.png";
 import { loginUserAction } from "../../../redux/slices/users/usersSlices";
 
 //Form schema
